@@ -1,1 +1,1 @@
-https://baseline-serial-med-courses.trycloudflare.com
+https://api.trycloudflare.com
