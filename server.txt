@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://rice-happens-treated-snap.trycloudflare.com
