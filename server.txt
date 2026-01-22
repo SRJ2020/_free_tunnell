@@ -1,1 +1,1 @@
-https://onion-ago-just-facial.trycloudflare.com
+https://api.trycloudflare.com
