@@ -1,1 +1,1 @@
-https://motion-influence-named-adjustments.trycloudflare.com
+https://api.trycloudflare.com
