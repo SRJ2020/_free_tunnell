@@ -1,1 +1,1 @@
-https://microphone-statute-label-whilst.trycloudflare.com
+https://api.trycloudflare.com/tunnel": dial tcp: lookup api.trycloudflare.com
