@@ -1,1 +1,1 @@
-https://limousines-lakes-rear-incidence.trycloudflare.com
+https://api.trycloudflare.com
