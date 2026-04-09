@@ -1,1 +1,1 @@
-https://call-die-section-lap.trycloudflare.com
+https://api.trycloudflare.com/tunnel": dial tcp: lookup api.trycloudflare.com
