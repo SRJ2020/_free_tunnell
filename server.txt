@@ -1,1 +1,1 @@
-https://array-compare-her-tiger.trycloudflare.com
+https://api.trycloudflare.com/tunnel": dial tcp: lookup api.trycloudflare.com
