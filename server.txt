@@ -1,1 +1,1 @@
-https://placement-allergy-chuck-made.trycloudflare.com
+https://api.trycloudflare.com/tunnel": dial tcp: lookup api.trycloudflare.com
