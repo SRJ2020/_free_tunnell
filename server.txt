@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/tunnel": dial tcp: lookup api.trycloudflare.com
+https://recent-bridal-motivated-hop.trycloudflare.com
