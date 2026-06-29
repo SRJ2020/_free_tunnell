@@ -1,1 +1,1 @@
-https://chi-reef-eminem-season.trycloudflare.com
+https://api.trycloudflare.com/tunnel": dial tcp: lookup api.trycloudflare.com
