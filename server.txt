@@ -1,1 +1,1 @@
-https://ministers-pregnant-rivers-versus.trycloudflare.com
+https://api.trycloudflare.com/tunnel": dial tcp: lookup api.trycloudflare.com
